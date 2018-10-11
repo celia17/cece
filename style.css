@@ -1,0 +1,17 @@
+h1 
+{
+	color: #272222 ;
+	font-size: 70px;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	background-color: lavenderblush;
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: black;
+}
